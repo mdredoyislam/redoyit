@@ -138,7 +138,7 @@ span, a, a:hover {
   content: '';
   width: 60px;
   height: 1px;
-  background: #C49B66;
+  background: #e96324;
   position: absolute;
   bottom: 0;
   left: calc(50% - 30px);
@@ -298,7 +298,7 @@ span, a, a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #C49B66;
+  background: #e96324;
 }
 
 /* ----------------------------------------------------------------
@@ -335,8 +335,8 @@ span, a, a:hover {
   right: 0;
   bottom: 0;
   background: transparent;
-  color: #C49B66;
-  border: 1px solid #C49B66;
+  color: #e96324;
+  border: 1px solid #e96324;
   line-height: 38px;
   -webkit-transition: .3s;
   transition: .3s;
@@ -352,7 +352,7 @@ span, a, a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #C49B66;
+  background: #e96324;
   color: #fff;
   -webkit-transition: .3s;
   transition: .3s;
@@ -371,13 +371,13 @@ span, a, a:hover {
 }
 
 .buton-bord button:before, .buton-bord a:before {
-  background: #C49B66;
+  background: #e96324;
   color: #fff;
 }
 .buton-bord button:after, .buton-bord a:after {
   background: transparent;
-  color: #C49B66;
-  border: 1px solid #C49B66;
+  color: #e96324;
+  border: 1px solid #e96324;
 }
 
 .buton-lg button, .buton-lg a {
@@ -416,7 +416,7 @@ span, a, a:hover {
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #C49B66 !important;
+  color: #e96324 !important;
 }
 
 .nav-scroll {
@@ -525,7 +525,7 @@ span, a, a:hover {
   padding: 0 0 0 20px;
 }
 .hero .hero-img:hover:after {
-  background: #C49B66;
+  background: #e96324;
   left: 5px;
   top: -15px;
   right: 15px;
@@ -546,8 +546,16 @@ span, a, a:hover {
 .hero .content p {
   margin-bottom: 15px;
 }
-.hero .content p span {
+.hero .content ul li{
+  font-size: 15px;
+  color: #a3a3a3;
+  line-height: 1.8;
+  word-spacing: 1px;
+  margin: 0;
+}
+.hero .content p span, .hero .content ul li span {
   font-weight: 700;
+  color: #333;
 }
 .hero .content .social-icon span {
   width: 30px;
@@ -562,8 +570,8 @@ span, a, a:hover {
   transition: all .5s;
 }
 .hero .content .social-icon span:hover {
-  background: #C49B66;
-  border-color: #C49B66;
+  background: #e96324;
+  border-color: #e96324;
   color: #fff;
 }
 .hero .content .buton {
@@ -587,7 +595,7 @@ span, a, a:hover {
 }
 .resume .item .icon {
   font-size: 30px;
-  color: #C49B66;
+  color: #e96324;
   margin-bottom: 15px;
 }
 .resume .item li {
@@ -637,7 +645,7 @@ span, a, a:hover {
   left: 0;
   height: 100%;
   width: 5%;
-  background: #C49B66;
+  background: #e96324;
   -webkit-transition: all 1s;
   transition: all 1s;
 }
@@ -651,7 +659,7 @@ span, a, a:hover {
 }
 .services .item .icon {
   font-size: 40px;
-  color: #C49B66;
+  color: #e96324;
   margin-bottom: 30px;
 }
 .services .item h6 {
@@ -694,7 +702,7 @@ span, a, a:hover {
 }
 .numbers .item .icon {
   font-size: 30px;
-  color: #C49B66;
+  color: #e96324;
   margin-bottom: 30px;
 }
 .numbers .item h2 {
@@ -721,8 +729,8 @@ span, a, a:hover {
 }
 .portfolio .filtering .active {
   color: #fff;
-  background: #C49B66;
-  border-color: #C49B66;
+  background: #e96324;
+  border-color: #e96324;
 }
 .portfolio .filtering .active:after {
   bottom: 0;
@@ -752,7 +760,7 @@ span, a, a:hover {
   z-index: 5;
 }
 .portfolio .item-img h6 {
-  color: #C49B66;
+  color: #e96324;
   font-size: 13px;
   position: relative;
   margin-bottom: 10px;
@@ -767,7 +775,7 @@ span, a, a:hover {
   position: absolute;
   bottom: 10px;
   right: 10px;
-  color: #C49B66;
+  color: #e96324;
   -webkit-transition: all .5s;
   transition: all .5s;
   z-index: 5;
@@ -862,7 +870,7 @@ span, a, a:hover {
   right: 15px;
   padding: 8px 22px;
   font-size: 11px;
-  background: #C49B66;
+  background: #e96324;
   color: #fff;
   -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
           box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
@@ -890,7 +898,7 @@ span, a, a:hover {
   color: #999;
 }
 .blog .pitem .info .more {
-  color: #C49B66;
+  color: #e96324;
   border-bottom: 1px solid #eee;
 }
 .blog .pitem .info .by {
@@ -929,7 +937,7 @@ span, a, a:hover {
   float: left;
   padding-top: 5px;
   font-size: 25px;
-  color: #C49B66;
+  color: #e96324;
 }
 .contact .info .item .cont {
   margin-left: 45px;
@@ -983,7 +991,7 @@ span, a, a:hover {
     color: #fff !important;
   }
   .nav-scroll .navbar-collapse .active {
-    color: #C49B66 !important;
+    color: #e96324 !important;
   }
 
   .header .caption h1 {
