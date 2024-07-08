@@ -462,6 +462,16 @@ span, a, a:hover {
 .logo:hover {
   color: #fff;
 }
+.sticky-logo {
+  display: none;
+}
+.nav-scroll .logo{
+  display: none;
+}
+.nav-scroll .sticky-logo {
+  display: block;
+}
+
 
 /* ----------------------------------------------------------------
 				04 Header
